@@ -7,11 +7,15 @@
 		"tsf-cli": "index.js",
 		"tsf": "index.js"
 	},
+	"repository": "https://github.com/tawseefnabi/node-cli",
 	"author": {
 		"name": "tawseef ahmad",
 		"email": "tawseefnabi9@gmail.com",
 		"url": "https://twitter.com/NabiTowseef"
 	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/tos__"
+	  },
 	"keywords": [
 		"tsf-cli",
 		"tawseef ahmad"
