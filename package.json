@@ -1,7 +1,7 @@
 {
 	"name": "@tawseefnabi/tsf-cli",
 	"description": "demo cli teached by ahmad awais",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"license": "MIT",
 	"bin": {
 		"tsf-cli": "index.js",
@@ -13,9 +13,6 @@
 		"email": "tawseefnabi9@gmail.com",
 		"url": "https://twitter.com/NabiTowseef"
 	},
-	"publishConfig": {
-		"registry": "https://registry.npmjs.org/"
-	  },
 	"keywords": [
 		"tsf-cli",
 		"tawseef ahmad"
