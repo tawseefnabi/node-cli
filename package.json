@@ -1,5 +1,5 @@
 {
-	"name": "tsf-cli",
+	"name": "@tawseefnabi/tsf-cli",
 	"description": "demo cli teached by ahmad awais",
 	"version": "0.0.5",
 	"license": "MIT",
@@ -7,9 +7,9 @@
 		"tsf-cli": "index.js",
 		"tsf": "index.js"
 	},
-	"repository": "https://github.com/tawseefnabi/node-cli",
+	"repository": "git://github.com/tawseefnabi/node-cli",
 	"author": {
-		"name": "tawseef ahmad",
+		"name": "tos_",
 		"email": "tawseefnabi9@gmail.com",
 		"url": "https://twitter.com/NabiTowseef"
 	},
