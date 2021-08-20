@@ -14,7 +14,7 @@
 		"url": "https://twitter.com/NabiTowseef"
 	},
 	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/tos__"
+		"registry": "https://npm.pkg.github.com/tos_"
 	  },
 	"keywords": [
 		"tsf-cli",
